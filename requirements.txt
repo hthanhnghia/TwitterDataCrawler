@@ -1,0 +1,9 @@
+appdirs==1.4.3
+beautifulsoup4==4.5.3
+httplib2==0.10.3
+oauth2==1.9.0.post1
+packaging==16.8
+pafy==0.5.3.1
+pyparsing==2.2.0
+six==1.10.0
+youtube-dl==2017.4.11
